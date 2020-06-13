@@ -10,4 +10,5 @@ package com.dt.springcloud;
 public class Wd {
 
     private int id;
+    private int age;
 }
