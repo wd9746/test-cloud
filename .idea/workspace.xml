@@ -49,7 +49,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager">
     <configuration name="CloudProviderGoods8003Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -133,6 +133,10 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1397" height="242" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1591878760834" />
+    <state x="186" y="14" key="SettingsEditor" timestamp="1592038753722">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1592038753722" />
     <state x="108" y="168" key="new project wizard" timestamp="1591430962482">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
