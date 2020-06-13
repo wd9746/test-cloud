@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34b79035-bc57-4e1b-9100-166bd976f374" name="Default Changelist" comment="Czx-First revision">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dt/springcloud/Czx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dt/springcloud/Czx.java" afterDir="false" />
-    </list>
+    <list default="true" id="34b79035-bc57-4e1b-9100-166bd976f374" name="Default Changelist" comment="Czx-First revision" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,9 +24,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\Maven\maven_repository" />
-        <option name="mavenHome" value="D:/Maven/apache-maven-3.5.2" />
-        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.5.2\conf\settings.xml" />
+        <option name="localRepository" value="G:\Maven\maven_repository" />
+        <option name="mavenHome" value="G:/Maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="G:\Maven\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -62,7 +59,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager">
     <configuration name="CloudProviderGoods8003Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -104,6 +101,7 @@
       <workItem from="1591855451884" duration="2664000" />
       <workItem from="1591874378701" duration="3127000" />
       <workItem from="1592038729403" duration="815000" />
+      <workItem from="1592041890340" duration="43000" />
     </task>
     <task id="LOCAL-00001" summary="Czx-First revision">
       <created>1592038911104</created>
@@ -123,14 +121,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="Czx-First revision" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="153" y="0" key="CommitChangelistDialog2" timestamp="1592039299834">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="215" y="0" key="CommitChangelistDialog2" timestamp="1592042024564">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="153" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1592039299834" />
-    <state x="501" y="205" key="FileChooserDialogImpl" timestamp="1592037892463">
-      <screen x="0" y="0" width="1440" height="920" />
+    <state x="215" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592042024564" />
+    <state x="668" y="232" key="FileChooserDialogImpl" timestamp="1592041927096">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="501" y="205" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1592037892463" />
+    <state x="668" y="232" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592041927096" />
     <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1591878760834">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -163,10 +163,11 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1397" height="242" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1591878760834" />
-    <state x="186" y="14" key="SettingsEditor" timestamp="1592039520285">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="261" y="20" key="SettingsEditor" timestamp="1592041932043">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1592039520285" />
+    <state x="261" y="20" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592041932043" />
     <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1592039316870">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
